@@ -19,10 +19,10 @@ A web application that predicts future cryptocurrency prices using a deep learni
 
 
 Home Page
-![Home Page](<img width="958" height="500" alt="Image" src="https://github.com/user-attachments/assets/e798da4e-1d88-4252-bbb0-4b9ab72789c6" />) 
+![Home Page](https://github.com/Indrajit1465/cryptocurrency_price_predictor/blob/2a20f9905179e402d23dba5c56f88b2040068ee9/Home%20Page.png) 
 
 Result Page
-![Results Page](<img width="1102" height="1925" alt="Image" src="https://github.com/user-attachments/assets/ef8109bb-2584-4731-91ad-08b6002085df" />) 
+![Results Page](https://github.com/Indrajit1465/cryptocurrency_price_predictor/blob/2a20f9905179e402d23dba5c56f88b2040068ee9/Result%20Page.png) 
 
 ---
 
