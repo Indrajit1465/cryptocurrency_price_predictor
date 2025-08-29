@@ -16,11 +16,11 @@ A web application that predicts future cryptocurrency prices using a deep learni
 
 ## 📸 Screenshots
 
-*(**Note**: Take screenshots of your running application and replace these placeholders. You can drag and drop the images into the GitHub editor.)*
+
 
 | Home Page                                       | Results Page                                     |
 | ----------------------------------------------- | ------------------------------------------------ |
-| ![Home Page](<REPLACE_WITH_HOME_PAGE_IMAGE_URL>) | ![Results Page](<REPLACE_WITH_RESULTS_PAGE_URL>) |
+| ![Home Page](<img width="941" height="757" alt="Image" src="https://github.com/user-attachments/assets/929ca37e-b68b-4489-938e-d9488fdc1f0e" />) | ![Results Page](<img width="958" height="500" alt="Image" src="https://github.com/user-attachments/assets/da55639a-5890-44bf-b18a-0c4fd822e257" />) |
 
 ---
 
@@ -61,7 +61,7 @@ Follow these instructions to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/cryptocurrency_price_predictor.git
+    git clone [https://github.com/](https://github.com/)indrajit1465/cryptocurrency_price_predictor.git
     cd cryptocurrency_price_predictor
     ```
 
@@ -87,7 +87,7 @@ Follow these instructions to get a local copy up and running.
 
 1.  **Start the Flask server:**
     ```sh
-    python app.py
+    python3 app.py
     ```
 
 2.  **Open your browser** and navigate to:
